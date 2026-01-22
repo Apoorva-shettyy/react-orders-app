@@ -1,0 +1,296 @@
+[
+  {
+    "id": "ORD-1001",
+    "customerName": "Ravi Kumar",
+    "items": [
+      { "name": "Wireless Mouse", "quantity": 1, "price": 799 },
+      { "name": "USB Cable", "quantity": 2, "price": 199 }
+    ],
+    "subtotal": 1197,
+    "tax": 215,
+    "discount": 100,
+    "totalAmount": 1312,
+    "status": "PENDING",
+    "createdAt": 1769015990689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1002",
+    "customerName": "Anjali Sharma",
+    "items": [{ "name": "Bluetooth Speaker", "quantity": 1, "price": 2499 }],
+    "subtotal": 2499,
+    "tax": 450,
+    "discount": 0,
+    "totalAmount": 2949,
+    "status": "PAID",
+    "createdAt": 1769016890689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1003",
+    "customerName": "John Doe",
+    "items": [{ "name": "Keyboard", "quantity": 1, "price": 1500 }],
+    "subtotal": 1500,
+    "tax": 270,
+    "discount": 100,
+    "totalAmount": 1670,
+    "status": "CANCELLED",
+    "createdAt": 1769017790689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1004",
+    "customerName": "Meera Patel",
+    "items": [
+      { "name": "Bluetooth Speaker", "quantity": 1, "price": 1289 },
+      { "name": "HDMI Cable", "quantity": 1, "price": 499 }
+    ],
+    "subtotal": 1788,
+    "tax": 321,
+    "discount": 100,
+    "totalAmount": 2009,
+    "status": "PENDING",
+    "createdAt": 1769018690689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1005",
+    "customerName": "Krishna Patel",
+    "items": [
+      { "name": "Laptop Stand", "quantity": 1, "price": 1899 },
+      { "name": "Bluetooth Speaker", "quantity": 2, "price": 4999 }
+    ],
+    "subtotal": 11897,
+    "tax": 2141,
+    "discount": 500,
+    "totalAmount": 13438,
+    "status": "PENDING",
+    "createdAt": 17690086540689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1006",
+    "customerName": "Avanthika Reddy",
+    "items": [
+      { "name": "Laptop Stand", "quantity": 2, "price": 1899 },
+      { "name": "Television", "quantity": 1, "price": 30309 }
+    ],
+    "subtotal": 34007,
+    "tax": 6121,
+    "discount": 1000,
+    "totalAmount": 39128,
+    "status": "PENDING",
+    "createdAt": 1769014390689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1007",
+    "customerName": "Michelle Lee",
+    "items": [
+      { "name": "Laptop Stand", "quantity": 10, "price": 1899 },
+      { "name": "Pendrive", "quantity": 1, "price": 499 }
+    ],
+    "subtotal": 19089,
+    "tax": 3436,
+    "discount": 500,
+    "totalAmount": 22025,
+    "status": "PAID",
+    "createdAt": 1769018690639,
+    "syncStatus": "PAID"
+  },
+  {
+    "id": "ORD-1008",
+    "customerName": "Amit Singh",
+    "items": [
+      { "name": "Monitor", "quantity": 1, "price": 12000 },
+      { "name": "Keyboard", "quantity": 1, "price": 1500 }
+    ],
+    "subtotal": 13500,
+    "tax": 2430,
+    "discount": 500,
+    "totalAmount": 15430,
+    "status": "PENDING",
+    "createdAt": 1769018990689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1009",
+    "customerName": "Sonia Verma",
+    "items": [
+      { "name": "Mouse Pad", "quantity": 3, "price": 299 },
+      { "name": "USB Hub", "quantity": 1, "price": 799 }
+    ],
+    "subtotal": 1696,
+    "tax": 305,
+    "discount": 100,
+    "totalAmount": 1901,
+    "status": "PAID",
+    "createdAt": 1769019590689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1010",
+    "customerName": "Rahul Mehta",
+    "items": [
+      { "name": "Laptop Sleeve", "quantity": 2, "price": 1200 },
+      { "name": "Charger", "quantity": 1, "price": 2500 }
+    ],
+    "subtotal": 4900,
+    "tax": 882,
+    "discount": 200,
+    "totalAmount": 5582,
+    "status": "PENDING",
+    "createdAt": 1769020190689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1011",
+    "customerName": "Pooja Reddy",
+    "items": [
+      { "name": "Desk Lamp", "quantity": 1, "price": 899 },
+      { "name": "Notebook", "quantity": 5, "price": 299 }
+    ],
+    "subtotal": 2394,
+    "tax": 431,
+    "discount": 100,
+    "totalAmount": 2725,
+    "status": "PAID",
+    "createdAt": 1769020790689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1012",
+    "customerName": "Vikram Singh",
+    "items": [
+      { "name": "Webcam", "quantity": 1, "price": 3500 },
+      { "name": "Headset", "quantity": 1, "price": 1200 }
+    ],
+    "subtotal": 4700,
+    "tax": 846,
+    "discount": 200,
+    "totalAmount": 5346,
+    "status": "CANCELLED",
+    "createdAt": 1769021390689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1013",
+    "customerName": "Nisha Sharma",
+    "items": [
+      { "name": "Pen", "quantity": 10, "price": 50 },
+      { "name": "Notebook", "quantity": 3, "price": 299 }
+    ],
+    "subtotal": 1147,
+    "tax": 207,
+    "discount": 50,
+    "totalAmount": 1304,
+    "status": "PENDING",
+    "createdAt": 1769021990689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1014",
+    "customerName": "Karan Johar",
+    "items": [
+      { "name": "Camera", "quantity": 1, "price": 25000 },
+      { "name": "Tripod", "quantity": 1, "price": 5000 }
+    ],
+    "subtotal": 30000,
+    "tax": 5400,
+    "discount": 1000,
+    "totalAmount": 34400,
+    "status": "PAID",
+    "createdAt": 1769022590689,
+    "syncStatus": "PAID"
+  },
+  {
+    "id": "ORD-1015",
+    "customerName": "Deepak Kumar",
+    "items": [
+      { "name": "Smartphone", "quantity": 1, "price": 18000 },
+      { "name": "Charger", "quantity": 1, "price": 1500 }
+    ],
+    "subtotal": 19500,
+    "tax": 3510,
+    "discount": 500,
+    "totalAmount": 21510,
+    "status": "PENDING",
+    "createdAt": 1769023190689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1016",
+    "customerName": "Sakshi Verma",
+    "items": [
+      { "name": "Tablet", "quantity": 1, "price": 12000 },
+      { "name": "Stylus", "quantity": 1, "price": 1200 }
+    ],
+    "subtotal": 13200,
+    "tax": 2376,
+    "discount": 200,
+    "totalAmount": 15376,
+    "status": "PAID",
+    "createdAt": 1769023790689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1017",
+    "customerName": "Rohit Sharma",
+    "items": [
+      { "name": "Desk Chair", "quantity": 1, "price": 4500 },
+      { "name": "Desk Lamp", "quantity": 2, "price": 899 }
+    ],
+    "subtotal": 6298,
+    "tax": 1134,
+    "discount": 100,
+    "totalAmount": 7332,
+    "status": "CANCELLED",
+    "createdAt": 1769024390689,
+    "syncStatus": "SYNCED"
+  },
+  {
+    "id": "ORD-1018",
+    "customerName": "Ananya Singh",
+    "items": [
+      { "name": "Notebook", "quantity": 10, "price": 299 },
+      { "name": "Pen", "quantity": 20, "price": 50 }
+    ],
+    "subtotal": 4490,
+    "tax": 808,
+    "discount": 200,
+    "totalAmount": 5098,
+    "status": "PENDING",
+    "createdAt": 1769024990689,
+    "syncStatus": "PENDING"
+  },
+  {
+    "id": "ORD-1019",
+    "customerName": "Priya Sharma",
+    "items": [
+      { "name": "Monitor", "quantity": 2, "price": 12000 },
+      { "name": "HDMI Cable", "quantity": 2, "price": 499 }
+    ],
+    "subtotal": 24998,
+    "tax": 4496,
+    "discount": 500,
+    "totalAmount": 29000,
+    "status": "PAID",
+    "createdAt": 1769025590689,
+    "syncStatus": "PAID"
+  },
+  {
+    "id": "ORD-1020",
+    "customerName": "Arjun Reddy",
+    "items": [
+      { "name": "Smartwatch", "quantity": 1, "price": 9999 },
+      { "name": "Wireless Earbuds", "quantity": 1, "price": 4999 }
+    ],
+    "subtotal": 14998,
+    "tax": 2700,
+    "discount": 500,
+    "totalAmount": 17198,
+    "status": "PENDING",
+    "createdAt": 1769026190689,
+    "syncStatus": "PENDING"
+  }
+]
